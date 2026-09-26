@@ -1,0 +1,36 @@
+[
+  {
+    "id": "SKU-001",
+    "name": "Mechanical Keyboard",
+    "stock": 25,
+    "prices": [
+      120.0,
+      115.5,
+      118.0
+    ]
+  },
+  {
+    "id": "SKU-002",
+    "name": "USB-C Cable",
+    "stock": -5,
+    "prices": [
+      12.0,
+      10.0
+    ]
+  },
+  {
+    "id": "SKU-003",
+    "name": "Gaming Mouse",
+    "stock": 14,
+    "prices": []
+  },
+  {
+    "id": "SKU-004",
+    "name": "IPS Monitor",
+    "stock": 8,
+    "prices": [
+      300.0,
+      295.0
+    ]
+  }
+]
